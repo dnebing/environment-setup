@@ -1,0 +1,11 @@
+Bundle-Name: Example Environment Setup
+Bundle-SymbolicName: com.example.environment.setup
+
+#
+# This version is important to manage the upgrade process execution.
+#
+Bundle-Version: 1.2.0
+
+Export-Package: com.example.environment.setup
+
+
